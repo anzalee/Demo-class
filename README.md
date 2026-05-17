@@ -1,7 +1,7 @@
 # Demo-class
 
 Welcome to my first repository
-<b>
+<br>
 Author-Anjali Shah
 Currently active
 
